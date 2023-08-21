@@ -65,6 +65,13 @@ and click `Generate token`
     http://localhost:8080/repositories/username
 ### for example
     http://localhost:8080/repositories/soheyla-karimzade
+    
+    
+for login with email and password 
+enter you github email in `email` input
+enter 123456 in `password` input
+
+for bug fix update password form will be created
  
     
 
