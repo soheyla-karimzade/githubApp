@@ -70,8 +70,6 @@ and click `Generate token`
 for login with email and password 
 enter you github email in `email` input
 enter 123456 in `password` input
-
-for bug fix update password form will be created
  
     
 
