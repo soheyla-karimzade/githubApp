@@ -67,7 +67,7 @@ and click `Generate token`
     http://localhost:8080/repositories/soheyla-karimzade
     
     
-### for login with email and password 
+### for login with email and password after login with github
 ### enter you github email in `email` input
 ### enter 123456 in `password` input
  
