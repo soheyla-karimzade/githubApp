@@ -4,10 +4,10 @@
 ### this application has two console command for communicate with github
 
 #### for create a repository in github : 
-        app:create-github-repo {username} {reponame}
+    sail artisan app:create-github-repo {username} {reponame}
         
 #### for delete a repository in github : 
-    app:delete-github-repo {username} {reponame}
+    sail artisan app:delete-github-repo {username} {reponame}
 
 
 ## for use this commands :
@@ -47,13 +47,13 @@ and click `Generate token`
 
 #### now you can use this command
  #### for create a repository in github : 
-         app:create-github-repo {username} {reponame}         
+          sail artisan app:create-github-repo {username} {reponame}         
 `reponame` parameter is your github repository name you want to create
 
 `username` parameter is your github username
 
  #### for delete a repository in github : 
-     app:delete-github-repo {username} {reponame}
+      sail artisan app:delete-github-repo {username} {reponame}
 `reponame` parameter is your github repository name you want to deleted
 
 `username` parameter is your github username
